@@ -4,7 +4,7 @@ Amazon API
 ```js
 
 fetch('B0BLGFY48N')
-  .then(price => console.log(price))
+  .then(data => console.log(data))
   .catch(err => console.error(err));
 
 // Expected output:
