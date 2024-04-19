@@ -1,0 +1,23 @@
+{
+  "name": "amazon-fetch",
+  "version": "1.0.0",
+  "description": "Amazon API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon", "api", "fetch"
+  ],
+  "author": "haruusyren",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "jsdom": "^24.0.0"
+  },
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innocence-studios/amazon-fetch"
+  }
+}
